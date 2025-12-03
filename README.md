@@ -49,13 +49,6 @@ The workflow includes:
 - Linear elastic material, small-strain kinematics.
 - Explicit dynamic response with optional Rayleigh damping.
 
-Not included:
-
-- Full 3D solids or shell-specific kinematics.
-- Nonlinear material laws (plasticity, damage).
-- Contact or multi-part assemblies.
-- Industrial crash models – this is an IGA “pilot” component only.
-
 ## Results (quick look)
 
 - **Cantilever**: IGA mid-height deflection vs Euler–Bernoulli:
